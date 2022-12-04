@@ -6,7 +6,7 @@ A little bit about me:
 - volunteering at the Memorial and Place of Encounter Bonhoeffer-House as website-administrator https://www.bonhoeffer-haus-berlin.de/visit/
 - volunteering at the German National Commission for UNESCO, developed a project on Digital Literacy in 2018 https://m.facebook.com/2179671842346526/photos/a.2180278668952510/2409531992693842/?type=3&source=57 
 - studying at 42Quebec https://42quebec.com/
-- currently working on projects in c-language, recently created my first Virtual Machine 
+- currently working on projects in c-language, recently created my first Virtual Machine to host a Debian server
 
 ### Connect with me 🤝
 
@@ -17,9 +17,7 @@ A little bit about me:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
   
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
