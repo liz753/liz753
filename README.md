@@ -8,13 +8,13 @@ A little bit about me:
 - studying at 42Quebec https://42quebec.com/
 - currently working on projects in c-language, recently created my first Virtual Machine to host a Debian server
 
-### Connect with me 🤝
+### Connect with me   🤝
 
 <a href="https://www.linkedin.com/in/lisa-frank-887463158/">
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
- 
- 
+ ## GitHub activity
+### GitHub activity
  <!-- HTML -->
 <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 <!---
