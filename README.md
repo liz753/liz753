@@ -13,8 +13,7 @@ A little bit about me:
 <a href="https://www.linkedin.com/in/lisa-frank-887463158/">
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-  
- ---
+ 
  
  <!-- HTML -->
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
