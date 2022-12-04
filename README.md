@@ -13,6 +13,12 @@ A little bit about me:
 <a href="https://www.linkedin.com/in/lisa-frank-887463158/">
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
+ ---
+## GitHub activity 
+[![Lisa's github stats](https://github-readme-stats.vercel.app/api?username=lis753)](https://github.com/liz753)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liz753&layout=compact)](https://github.com/liz753)
+ 
  <!-- HTML -->
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
 
