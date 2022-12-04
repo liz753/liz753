@@ -17,7 +17,9 @@ A little bit about me:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
 </div>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
   
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
