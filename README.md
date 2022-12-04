@@ -13,6 +13,7 @@ A little bit about me:
 <a href="https://www.linkedin.com/in/lisa-frank-887463158/">
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
+  
  ---
 ## GitHub activity 
 [![Lisa's github stats](https://github-readme-stats.vercel.app/api?username=liz753)](https://github.com/liz753)
@@ -21,8 +22,6 @@ A little bit about me:
  
  <!-- HTML -->
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
-
-  
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
