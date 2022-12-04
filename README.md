@@ -12,11 +12,13 @@ A little bit about me:
 
 <a href="https://www.linkedin.com/in/lisa-frank-887463158/">
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
+-
 
 ### GitHub activity
- <!-- HTML -->
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+</div>
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
