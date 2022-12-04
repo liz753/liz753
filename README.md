@@ -14,9 +14,7 @@ A little bit about me:
   <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
  <!-- HTML -->
-<div id="header" align="center">
 <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif"/>
-</div>
 
   
 <!---
