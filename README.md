@@ -15,7 +15,7 @@ A little bit about me:
 
  ---
 ## GitHub activity 
-[![Lisa's github stats](https://github-readme-stats.vercel.app/api?username=lis753)](https://github.com/liz753)
+[![Lisa's github stats](https://github-readme-stats.vercel.app/api?username=liz753)](https://github.com/liz753)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liz753&layout=compact)](https://github.com/liz753)
  
