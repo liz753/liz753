@@ -2,11 +2,8 @@
 
 A little bit about me:
 
-- former French and Philosophy teacher, currently changing careers to become a software developer 
-- volunteering at the Memorial and Place of Encounter Bonhoeffer-House as website-administrator https://www.bonhoeffer-haus-berlin.de/visit/
-- volunteering at the German National Commission for UNESCO, developed a project on Digital Literacy in 2018 https://m.facebook.com/2179671842346526/photos/a.2180278668952510/2409531992693842/?type=3&source=57 
 - studying at 42Quebec https://42quebec.com/
-- currently working on projects in c-language, recently created my first Virtual Machine to host a Debian server
+- currently working on projects in c-language and shell
 
 ### Connect with me   🤝
 
