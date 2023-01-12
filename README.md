@@ -1,7 +1,5 @@
 ### Hi there, I'm Lisa 🙋🏼‍♀️
 
-A little bit about me:
-
 - studying at 42Quebec https://42quebec.com/
 - currently working on projects in c-language and shell
 
