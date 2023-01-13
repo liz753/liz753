@@ -8,8 +8,9 @@
 <a href="https://www.discordapp.com/users/692659001220923442">
   <img align="left" alt="Lisa Frank's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-[📫 e-mail me](mailto:liz753.codes@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
+📫 e-mail me:
+<a href="mailto:liz753.codes@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </br>
 
 ### GitHub activity
