@@ -1,7 +1,8 @@
 ### Hi there, I'm Lisa 🙋🏼‍♀️
 
-- studying at 42Quebec https://42quebec.com/
-- currently working on projects in c-language and shell
+- 👩‍💻 studying at 42Quebec https://42quebec.com/
+- 🌱 currently working on projects in c-language and shell
+- 💻 continuously exploring opportunities to enhance my knowledge in IT
 
 ### Connect with me:
 
