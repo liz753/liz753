@@ -3,10 +3,10 @@
 - studying at 42Quebec https://42quebec.com/
 - currently working on projects in c-language and shell
 
-### Connect with me   🤝
+### Connect with me:
 
-<a href="https://www.linkedin.com/in/lisa-frank-887463158/">
-  <img align="left" alt="Lisa Frank's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.discordapp.com/users/692659001220923442">
+  <img align="left" alt="Lisa Frank's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 </br>
