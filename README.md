@@ -4,10 +4,9 @@
 - 🌱 currently working on projects in c++ and javascript/react
 - 💻 like all of you out here, continuously exploring opportunities to enhance my knowledge in IT
 
-### Connect with me:
+### Connect with me via:
 
-[Discord](https://www.discordapp.com/users/692659001220923442)
-[Linkedin] (https://www.linkedin.com/in/lisa-frank-887463158/)
+[Discord](https://www.discordapp.com/users/692659001220923442) or [Linkedin](https://www.linkedin.com/in/lisa-frank-887463158/)
 
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
