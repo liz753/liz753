@@ -7,6 +7,7 @@
 ### Connect with me:
 
 [Discord](https://www.discordapp.com/users/692659001220923442)
+[Linkedin] (https://www.linkedin.com/in/lisa-frank-887463158/)
 
 <!---
 liz753/liz753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
